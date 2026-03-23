@@ -16,8 +16,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulianKranz21/JulianKranz21/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JulianKranz21/JulianKranz21/output/pacman-contribution-graph.svg">
 </picture>
-
-
-### Snake
-
-![snake gif](https://github.com/JulianKranz21/JulianKranz21/blob/output/github-snake-dark.svg)
