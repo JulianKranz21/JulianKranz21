@@ -9,7 +9,7 @@
 ###  Tools & Platforms
 <img src="https://skillicons.dev/icons?i=cloudflare,eclipse,vscode,androidstudio,apple" />
 
-### Pacman & Snake
+### Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianKranz21/JulianKranz21/output/pacman-contribution-graph-dark.svg">
@@ -19,4 +19,3 @@
 
 
 
-![snake gif](https://github.com/JulianKranz21/JulianKranz21/blob/output/github-snake-dark.svg)
